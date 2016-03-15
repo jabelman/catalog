@@ -1,0 +1,7 @@
+Flask == 0.9
+SQLAlchemy == 0.8.4 
+BeautifulSoup == 3.2.1
+httplib2 == 0.9.1
+google_api_python_client == 1.4.1
+Requests == 2.7.0
+dicttoxml == 1.6.6
